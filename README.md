@@ -1,0 +1,2 @@
+# portfolioQA
+Manual Tester Portfolio
